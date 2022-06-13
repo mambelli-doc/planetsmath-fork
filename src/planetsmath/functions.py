@@ -1,6 +1,7 @@
 # SPDX-FileCopyrightText: 2022 Fermi Research Alliance, LLC
 # SPDX-License-Identifier: Apache-2.0
 
+
 def sum_function(list):
     """
     A function which takes a list as an argument and
@@ -29,5 +30,6 @@ def sum_product(list):
     return product
 
 
+# comment
 def square_array(list):
-    return [item*item for item in list]
+    return [item * item for item in list]
